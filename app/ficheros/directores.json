@@ -1,0 +1,6 @@
+[
+  {"id": 1, "nombre": "Hector Arias", "nacionalidad": "Britanica", "id_supermercado": 1},
+  {"id": 2, "nombre": "Jorge Arias", "nacionalidad": "Estados Unidos", "id_supermercado": 2},
+  {"id": 3, "nombre": "Dudu Arnesto", "nacionalidad": "Estados Unidos", "id_supermercado": 2}
+
+]
